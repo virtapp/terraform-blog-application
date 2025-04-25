@@ -61,21 +61,6 @@ The Blog Page Application aims to deploy blog application as a web application w
 
 - Git & Github for Version Control System
 
-### At the end of the project, you will be able to;
-
-- Construct VPC environment with whole components like public and private subnets, route tables and managing their routes, internet Gateway, NAT Instance.
-
-- Apply web programming skills, importing packages within Python Django Framework
-
-- Configure connection to the `MySQL` database.
-
-- Demonstrate bash scripting skills using `user data` section within launch template to install and setup Blog web application on EC2 Instance.
-
-- Create a Lambda function using S3, Lambda and DynamoDB table.
-
-- Demonstrate their configuration skills of AWS VPC, EC2 Launch Templates, Application Load Balancer, ALB Target Group, ALB Listener, Auto Scaling Group, S3, RDS, CloudFront, Route 53.
-
-- Apply git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Solution Steps
 
