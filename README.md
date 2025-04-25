@@ -1,10 +1,10 @@
 ![blog](https://github.com/user-attachments/assets/cc1aa1f9-e9d0-44a7-8dca-65a295ca99de)
 
 
-## Terraform Module - Blog Django Web App 
+## Terraform Module - Blog Django 
 The Blog Page Application aims to deploy blog application as a web application written Django Framework on AWS Cloud Infrastructure using Terraform with AWS and GitHub Providers to create all resources needed to deploy the architecture. This infrastructure has Application Load Balancer with Auto Scaling Group of Elastic Compute Cloud (EC2) Instances and Relational Database Service (RDS) on defined VPC. Also, The CloudFront and Route 53 services are located in front of the architecture and manage the traffic in secure. User is able to upload pictures and videos on own blog page and these are kept on S3 Bucket.
 
-🚀  Architecture
+## 🚀  Architecture
 ```
 ✅ Web Application
 ✅ Load Balancer with Auto Scaling
