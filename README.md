@@ -1,3 +1,6 @@
+![blog](https://github.com/user-attachments/assets/cc1aa1f9-e9d0-44a7-8dca-65a295ca99de)
+
+
 # Django Blog Application deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service, VPC's Components, Lambda, DynamoDB and CloudFront with Route 53 using Terraform with AWS and GitHub Providers
 
 ## Description
